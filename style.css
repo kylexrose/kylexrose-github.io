@@ -19,4 +19,9 @@ a:hover {
     background-color: burlywood;
     text-decoration: underline;
     border-style: outset;
+    transform: rotate(10deg)
+}
+
+img {
+    filter: blur(9px);
 }
