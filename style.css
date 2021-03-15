@@ -12,4 +12,11 @@ a {
     border-radius: 5px;
     border: black solid 1px;
     margin: 10px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: burlywood;
+    text-decoration: underline;
+    border-style: outset;
 }
